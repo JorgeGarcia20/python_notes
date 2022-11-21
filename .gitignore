@@ -224,4 +224,7 @@ $RECYCLE.BIN/
 # vitual environments
 env/
 
+# log file
+*.log
+
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,windows,linux,macos,visualstudiocode,pycharm
